@@ -6,7 +6,7 @@ module.exports = {
   // 资源文件目录
   publicPath: './',
   // 将构建好的文件输出到位置
-  outputDir: 'dist',
+  outputDir: 'dosc',
   // 放置生成的静态资源 (js、css、img、fonts) 的 (相对于 outputDir 的) 目录。   
   assetsDir: 'static',
   indexPath: 'index.html',
