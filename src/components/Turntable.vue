@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "turntable",
   props: {
     prizeId: {
       type: Number,
